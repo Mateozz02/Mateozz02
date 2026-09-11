@@ -7,8 +7,8 @@ Me apasiona construir soluciones backend escalables y plataformas empresariales,
 ## 🚀 Sobre mí
 
 - 💼 Actualmente trabajo como **Desarrollador .NET** en **Adminprop**, colaborando en una API core y en el proyecto Webforms, usando .NET Core y ASPX.
-- 🤖 Anteriormente formé parte de un **equipo especializado en IA** en Join Solutions, desarrollando un agente autónomo para gestión de bibliotecas de prompts.
-- 🏗️ Diseñé soluciones de punta a punta — desde el diseño UI/UX hasta la implementación backend — usando **Angular, .NET y MySQL**.
+- 🤖 Anteriormente formé parte de un **equipo especializado en IA** en Join Solutions, desarrollando un agente autónomo para gestión de bibliotecas de prompts, como tambien en desarrollos .NET y frontend con React.
+- 🏗️ Diseñé soluciones de punta a punta desde el diseño UI/UX hasta la implementación backend usando **Angular, .NET y MySQL**.
 - 🎓 Actualmente cursando la **Licenciatura en Sistemas de Información** en la **UTN** (Universidad Tecnológica Nacional), Argentina.
 - 🌱 Explorando **React y Python** en proyectos personales.
 
@@ -42,7 +42,7 @@ También trabajo con: Sitefinity CMS, LINQ, Blazor, Telerik, RabbitMQ, SignalR, 
 ## 💼 Experiencia
 
 - **Adminprop** — Desarrollador .NET (Actual)
-- **Join Solutions** — Desarrollador .NET
+- **Join Solutions** — Desarrollador .NET, Angular y React
 - **SAO Technology** — Desarrollador .NET
 - **Freelance** — Especialista .NET & CMS / Desarrollador Web
 - **Zyprotect** — Asesor Técnico Comercial
